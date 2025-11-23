@@ -1,5 +1,5 @@
-# AhmedE1sayed1
 # 💫 About Me:
+
 I’m a motivated and curious young developer with a strong passion for technology and continuous learning. I started my programming journey with C++, which gave me a solid foundation in problem-solving and algorithmic thinking. I am currently expanding my skill set by learning Java and exploring modern development practices.<br><br>I enjoy building projects that challenge me, push me to think creatively, and help me grow as a developer. My long-term goal is to improve my technical skills and contribute to impactful software solutions.
 
 
